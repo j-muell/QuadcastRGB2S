@@ -41,7 +41,9 @@
 #define DEV_VID_NA      0x0951
 #define DEV_VID_EU      0x03f0
 /* Product IDs */
-#define DEV_PID_NA      0x171f
+#define DEV_PID_NA1     0x171f
+#define DEV_PID_NA2     0x0d84
+#define DEV_PID_NA3     0x02b5
 #define DEV_PID_EU1     0x0f8b
 #define DEV_PID_EU2     0x028c
 #define DEV_PID_EU3     0x048c
